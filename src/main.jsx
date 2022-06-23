@@ -5,7 +5,7 @@ import App from './App'
 // 导入antd样式文件
 import 'antd/dist/antd.min.css'
 // 导入全局样式文件，防止样式覆盖
-import './index.css'
+import './index.scss'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
